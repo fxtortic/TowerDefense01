@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6173a499260f83f43a425a1dbff4a8ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - config: {fileID: 11400000, guid: 7d975d5c6ca291148b577399fdc2b806, type: 2}
+  - gridManager: {instanceID: 0}
+  - waypointPath: {instanceID: 0}
+  - enemySpawner: {instanceID: 0}
+  - towerPlacement: {instanceID: 0}
+  - uiManager: {instanceID: 0}
+  - aiAttacker: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

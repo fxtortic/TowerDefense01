@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d061344ab44f73d48b9039668a9ec111, type: 3}
+  m_Name: Freezer
+  m_EditorClassIdentifier: Assembly-CSharp::TowerData
+  towerName: "\u0417\u0430\u043C\u043E\u0440\u043E\u0436\u0443\u0432\u0430\u0447"
+  sprite: {fileID: 7138989343741693181, guid: c13c874376e8b5c499e5fb04e253d3b0, type: 3}
+  projectileSprite: {fileID: 0}
+  price: 120
+  damage: 5
+  fireRate: 0.8
+  range: 3
+  isAoE: 0
+  aoeDamage: 0
+  aoeRadius: 0
+  isFreezer: 1
+  slowAmount: 0.5
+  slowDuration: 2
+  projectileSpeed: 7
+  rangeColor: {r: 1, g: 1, b: 1, a: 0.2}
